@@ -7,4 +7,5 @@ new from home1
 check doubts in git
 =======
 check from home222222 home check
+           hometest masterslave
 >>>>>>> 4a55400d7ed5b747974039934513210889b9b34d
